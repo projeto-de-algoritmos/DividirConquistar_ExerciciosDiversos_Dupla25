@@ -19,8 +19,8 @@ Este projeto se trata da resolução de X exercícios( médios e um difíceis pe
 ![Search a 2D Matrix II](assets/SearchMatrix.png)
 
 ### Exercicio 2(Médio) - [Logical OR of Two Binary Grids Represented as Quad-Trees](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/)
-**Código:** [ACESSO]()<br>
-![Logical OR of Two Binary Grids Represented as Quad-Trees](assets/)
+**Código:** [ACESSO](LogicalQuad/Logical.py)<br>
+![Logical OR of Two Binary Grids Represented as Quad-Trees](assets/Logical.png)
 
 ### Exercicio 3(díficil) - [Reverse Pairs]()
 **Código:** [ACESSO]()<br>
