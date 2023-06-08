@@ -26,12 +26,12 @@ Este projeto se trata da resolução de X exercícios( médios e um difíceis pe
 **Código:** [ACESSO](ReversePairs/Reverse.py)<br>
 ![Reverse Pairs](assets/Reverse.png)
 
-### Exercicio 4(Médio) - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
+### Exercicio 4(Médio) - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 **Código:** [ACESSO](KthElement/KthElement.py)<br>
 ![](assets/)
 
-### Exercicio 5(Médio) - []()
-**Código:** [ACESSO]()<br>
+### Exercicio 5(Médio) - [Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/)
+**Código:** [ACESSO](KthXOR/KthXOR.py)<br>
 ![](assets/)
 
 ### Exercicio 6(díficil) - []()
