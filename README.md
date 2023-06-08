@@ -22,9 +22,9 @@ Este projeto se trata da resolução de X exercícios( médios e um difíceis pe
 **Código:** [ACESSO](LogicalQuad/Logical.py)<br>
 ![Logical OR of Two Binary Grids Represented as Quad-Trees](assets/Logical.png)
 
-### Exercicio 3(díficil) - [Reverse Pairs]()
-**Código:** [ACESSO]()<br>
-![Reverse Pairs]()
+### Exercicio 3(díficil) - [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
+**Código:** [ACESSO](ReversePairs/Reverse.py)<br>
+![Reverse Pairs](assets/Reverse.png)
 
 ### Exercicio 4(Médio) - []()
 **Código:** [ACESSO]()<br>
