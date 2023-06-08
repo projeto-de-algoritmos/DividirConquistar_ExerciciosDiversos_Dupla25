@@ -26,8 +26,8 @@ Este projeto se trata da resolução de X exercícios( médios e um difíceis pe
 **Código:** [ACESSO](ReversePairs/Reverse.py)<br>
 ![Reverse Pairs](assets/Reverse.png)
 
-### Exercicio 4(Médio) - []()
-**Código:** [ACESSO]()<br>
+### Exercicio 4(Médio) - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
+**Código:** [ACESSO](KthElement/KthElement.py)<br>
 ![](assets/)
 
 ### Exercicio 5(Médio) - []()
@@ -44,7 +44,7 @@ Este projeto se trata da resolução de X exercícios( médios e um difíceis pe
 ## Instalação 
 **Linguagem**: Python<br>
 **Framework**: (caso exista)<br>
-Pré-requisitos : Apenas o python3 instalado, caso o avaliador queira rodar localmente os códigos, nop entanto isso pode ser feito também pelo próprio site da LeetCode, bastanto ter uma conta. 
+Pré-requisitos : Apenas o python3 instalado, caso o avaliador queira rodar localmente os códigos, no entanto isso pode ser feito também pelo próprio site da LeetCode, bastanto ter uma conta. 
 
 ## Uso 
 
