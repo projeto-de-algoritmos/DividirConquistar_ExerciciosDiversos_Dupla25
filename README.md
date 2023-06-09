@@ -34,8 +34,8 @@ Este projeto se trata da resolução de X exercícios( médios e um difíceis pe
 **Código:** [ACESSO](KthXOR/KthXOR.py)<br>
 ![](assets/)
 
-### Exercicio 6(díficil) - []()
-**Código:** [ACESSO](y)<br>
+### Exercicio 6(díficil) - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+**Código:** [ACESSO](MedianArrays/MedianArrays.py)<br>
 ![](assets/)
 
 ## Vídeo
