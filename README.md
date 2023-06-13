@@ -1,6 +1,6 @@
-# Exercicios Diversos
+# Dividir e Conquistar - Exercicios Diversos (Leet Code)
 
-**Número da Lista**:25<br>
+**Número da Lista**: 25 (turma 2)<br>
 **Conteúdo da Disciplina**: Divide and Conquer<br>
 
 ## Alunos
@@ -10,31 +10,31 @@
 | 20/0028367  |  Victor Hugo Oliveira Leão T02 |
 
 ## Sobre 
-Este projeto se trata da resolução de X exercícios( médios e um difíceis pela classificação do site) abordando o tema de algoritimos dividir e conquistar. Os exercícios foram retirados do site [LeetCode](https://leetcode.com).
+Este projeto se trata da resolução de 6 exercícios (4 médios e 2 difíceis pela classificação do site Leet Code) abordando o tema de algoritimos dividir e conquistar. Os exercícios foram retirados do site [LeetCode](https://leetcode.com).
 
 ## Screenshots
 
-### Exercicio 1(Médio) - [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+### Exercicio 1 (Médio) - [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 **Código:** [ACESSO](Search2DMatrix/Search2DMatrix.py)<br>
 ![Search a 2D Matrix II](assets/SearchMatrix.png)
 
-### Exercicio 2(Médio) - [Logical OR of Two Binary Grids Represented as Quad-Trees](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/)
+### Exercicio 2 (Médio) - [Logical OR of Two Binary Grids Represented as Quad-Trees](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/)
 **Código:** [ACESSO](LogicalQuad/Logical.py)<br>
 ![Logical OR of Two Binary Grids Represented as Quad-Trees](assets/Logical.png)
 
-### Exercicio 3(díficil) - [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
+### Exercicio 3 (Díficil) - [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
 **Código:** [ACESSO](ReversePairs/Reverse.py)<br>
 ![Reverse Pairs](assets/Reverse.png)
 
-### Exercicio 4(Médio) - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+### Exercicio 4 (Médio) - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 **Código:** [ACESSO](KthElement/KthElement.py)<br>
 ![Kth Largest Element in an Array](assets/kth-element-accepted.png)
 
-### Exercicio 5(Médio) - [Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/)
+### Exercicio 5 (Médio) - [Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/)
 **Código:** [ACESSO](KthXOR/KthXOR.py)<br>
 ![](assets/)
 
-### Exercicio 6(díficil) - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+### Exercicio 6 (Díficil) - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 **Código:** [ACESSO](MedianArrays/MedianArrays.py)<br>
 ![](assets/)
 
