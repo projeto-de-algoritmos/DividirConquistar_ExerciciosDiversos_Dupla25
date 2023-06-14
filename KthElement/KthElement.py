@@ -47,7 +47,7 @@ class Solution(object):
         grupos = self.dividir_cinco(nums)
         medianas_grupos = [self.mediana_grupo(grupo) for grupo in grupos]
 
-        # A partir da mediana calculada pelo oráculo (e as subsequentes) tenta encontrar se o número é o K-ésimo maior
+        # Encontrar a mediana do "oráculo" de forma recursiva
         mediana_oraculo = self.findKthLargest(medianas_grupos, len(medianas_grupos) // 2)
 
         # Conjuntos da direita/esquerda/iguais
