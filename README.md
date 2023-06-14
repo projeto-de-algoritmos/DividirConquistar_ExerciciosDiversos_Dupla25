@@ -32,7 +32,7 @@ Este projeto se trata da resolução de 6 exercícios (4 médios e 2 difíceis p
 
 ### Exercicio 5 (Médio) - [Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/)
 **Código:** [ACESSO](KthXOR/KthXOR.py)<br>
-![](assets/)
+![Find Kth Largest XOR Coordinate Value](assets/kth-xor-value-accepted.png)
 
 ### Exercicio 6 (Díficil) - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 **Código:** [ACESSO](MedianArrays/MedianArrays.py)<br>
