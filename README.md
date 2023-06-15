@@ -10,7 +10,7 @@
 | 20/0028367  |  Victor Hugo Oliveira Leão T02 |
 
 ## Sobre 
-Este projeto se trata da resolução de 6 exercícios (4 médios e 2 difíceis pela classificação do site Leet Code) abordando o tema de algoritimos dividir e conquistar. Os exercícios foram retirados do site [LeetCode](https://leetcode.com).
+Este projeto se trata da resolução de 6 exercícios (4 médios e 2 difíceis pela classificação do site) abordando o tema de algoritimos dividir e conquistar. Os exercícios foram retirados do site [LeetCode](https://leetcode.com).
 
 ## Screenshots
 
@@ -43,8 +43,9 @@ Este projeto se trata da resolução de 6 exercícios (4 médios e 2 difíceis p
 
 ## Instalação 
 **Linguagem**: Python<br>
-**Framework**: (caso exista)<br>
-Pré-requisitos : Apenas o python3 instalado, caso o avaliador queira rodar localmente os códigos, no entanto isso pode ser feito também pelo próprio site da LeetCode, bastanto ter uma conta. 
+**Framework**: <br>
+
+Cada problema resolvido há seu código. Assim, caso queira tentar rodar localmente, é necessário apenas o Python instalado na máquina. Para testar no próprio LeetCode, basta ter uma conta e rodar o código no terminal do serviço.
 
 ## Uso 
 
@@ -66,6 +67,6 @@ Abaixo do editor de código, clique em `Run` para executar o código.
 ### Passo 6: Verificar resultados
 Assim que executado, verifique os resultados e se o código resolve o exercício.
 
+## Outros
 
-
-
+A dupla dividiu 3 exercícios para cada. Assim, os 3 primeiros exercícios foram resolvidos pelo integrante Vinícius e os últimos 3 foram resolvidos pelo integrante Victor.
