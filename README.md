@@ -36,7 +36,7 @@ Este projeto se trata da resolução de 6 exercícios (4 médios e 2 difíceis p
 
 ### Exercicio 6 (Díficil) - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 **Código:** [ACESSO](MedianArrays/MedianArrays.py)<br>
-![](assets/)
+![Median of Two Sorted Arrays](assets/median-accepted.png)
 
 ## Vídeo
 
