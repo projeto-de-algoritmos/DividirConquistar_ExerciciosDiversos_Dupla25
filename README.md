@@ -1,4 +1,4 @@
-# Dividir e Conquistar - Exercicios Diversos (Leet Code)
+![image](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosDiversos_Dupla25/assets/33530818/e1c05524-1e85-4e06-b60f-eec1f6679d77)# Dividir e Conquistar - Exercicios Diversos (Leet Code)
 
 **Número da Lista**: 25 (turma 2)<br>
 **Conteúdo da Disciplina**: Divide and Conquer<br>
@@ -40,6 +40,7 @@ Este projeto se trata da resolução de 6 exercícios (4 médios e 2 difíceis p
 
 ## Vídeo
 
+[Vídeo no YouTube](https://www.youtube.com/watch?v=7PciLDdZGzM)
 
 ## Instalação 
 **Linguagem**: Python<br>
