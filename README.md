@@ -42,6 +42,12 @@ Este projeto se trata da resolução de 6 exercícios (4 médios e 2 difíceis p
 
 [Vídeo no YouTube](https://www.youtube.com/watch?v=7PciLDdZGzM)
 
+
+
+https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosDiversos_Dupla25/assets/78980842/b3fb102a-e29c-4939-9b7a-2f1174e7d08a
+
+
+
 ## Instalação 
 **Linguagem**: Python<br>
 **Framework**: <br>
